@@ -44,6 +44,5 @@ The central problem we focused on solving was *Priority Task Scheduling*. Our Fo
 *(You would add specific instructions here on how to set up and run your main.py script with SUMO)*
 
 ```bash
-# Example placeholder command
-python main.py
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/WzUeh8r0)
