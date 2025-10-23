@@ -1,6 +1,6 @@
-# Guardian Flow: Our Edge + CI Emergency Vehicle Routing System 🚦🚑
+# Emergency Vehicle Priority Routing System 🚦🚑
 
-This repository contains the work for our project, "Guardian Flow," developed as a collaboration between students in the Edge Computing (23CSE362) and Computational Intelligence courses. We designed this system to tackle the critical problem of emergency vehicle (EV) delays caused by traffic congestion in urban environments, especially relevant to the complex traffic conditions we often see in India.
+This repository contains the work for our project, developed as a collaboration between students in the Edge Computing (23CSE362) and Computational Intelligence courses. We designed this system to tackle the critical problem of emergency vehicle (EV) delays caused by traffic congestion in urban environments, especially relevant to the complex traffic conditions we often see in India.
 
 ## Our Core Idea
 
